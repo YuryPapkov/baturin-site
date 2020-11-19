@@ -1,0 +1,9 @@
+.App {
+    text-align: center;
+    background-color: darkgray;
+}
+
+.cardsGrid {
+    display: flex;
+    justify-content: space-between;
+}
